@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "05/06/2021 4:04:09 PM"
+    "x-generation-date": "05/18/2021 12:18:04 AM"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -6004,7 +6004,7 @@
                 "id": {
                   "type": "string"
                 },
-                "page_number": {
+                "page_order": {
                   "type": "integer"
                 },
                 "image_background": {
@@ -6163,7 +6163,7 @@
           "id": {
             "type": "string"
           },
-          "page_number": {
+          "page_order": {
             "type": "integer"
           },
           "image_background": {
@@ -6322,7 +6322,7 @@
       },
       "NewPage": {
         "properties": {
-          "page_number": {
+          "page_order": {
             "type": "integer"
           },
           "lesson": {
@@ -6764,7 +6764,7 @@
               "id": {
                 "type": "string"
               },
-              "page_number": {
+              "page_order": {
                 "type": "integer"
               },
               "image_background": {

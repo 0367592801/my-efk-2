@@ -28,8 +28,8 @@
       "pluginOptions": {}
     },
     "page": {
-      "model": "page",
-      "via": "sounds"
+      "via": "sounds",
+      "model": "page"
     }
   }
 }

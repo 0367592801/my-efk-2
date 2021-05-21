@@ -12,7 +12,7 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "page_number": {
+    "page_order": {
       "type": "integer",
       "unique": false
     },

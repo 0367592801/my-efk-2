@@ -603,7 +603,7 @@
               "id": {
                 "type": "string"
               },
-              "page_number": {
+              "page_order": {
                 "type": "integer"
               },
               "image_background": {
